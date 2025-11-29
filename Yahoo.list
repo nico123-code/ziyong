@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,yahoo-net.jp
 DOMAIN-SUFFIX,yahoo-help.jp
 DOMAIN-SUFFIX,ybb.ne.jp
 DOMAIN-SUFFIX,blogcms.jp
+DOMAIN-SUFFIX,yahoo.jp
 
 # Yahoo Japan Services
 DOMAIN-SUFFIX,news.yahoo.co.jp
@@ -19,3 +20,5 @@ DOMAIN-SUFFIX,sports.yahoo.co.jp
 DOMAIN-SUFFIX,weather.yahoo.co.jp
 DOMAIN-SUFFIX,mail.yahoo.co.jp
 DOMAIN-SUFFIX,login.yahoo.co.jp
+DOMAIN-SUFFIX,sports-ino.west.edge.storage-yahoo.jp
+DOMAIN-SUFFIX,sports-ino.east.edge.storage-yahoo.jp
